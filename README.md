@@ -9,5 +9,5 @@
 
 ![My github](https://github-readme-stats.vercel.app/api?username=Jerka2009&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerka2009&layout=donut)](https://github.com/Jerka2009/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerka2009&layout=donut)](https://github.com/Jerka2009/github-readme-stats)
 
